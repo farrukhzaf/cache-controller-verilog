@@ -1,0 +1,33 @@
+# In the project root, create .gitignore
+```
+
+   **Content of .gitignore:**
+```
+   # Simulation files
+   *.vcd
+   *.wlf
+   *.log
+   work/
+   transcript
+   vsim.wlf
+   
+   # Vivado/Xilinx files
+   *.jou
+   *.str
+   .Xil/
+   *.xpr
+   
+   # ModelSim/QuestaSim
+   *.mti
+   *.mpf
+   
+   # OS files
+   .DS_Store
+   Thumbs.db
+   
+   # Editor files
+   *.swp
+   *.swo
+   *~
+   .vscode/
+   .idea/
