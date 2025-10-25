@@ -208,7 +208,7 @@ data_memory_subsystem #(
 
 **Your Name**
 - GitHub: [@farrukhzaf](https://github.com/farrukhzaf)
-- LinkedIn: [Mohammad Farukh Zafar](https://linkedin.com/in/farukhzafa)
+- LinkedIn: [Mohammad Farukh Zafar](https://linkedin.com/in/farukhzafar)
 - Email: farukhzafar@iisc.ac.in
 
 ## 📄 License
