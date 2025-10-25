@@ -14,8 +14,11 @@ A parameterized direct-mapped write-through cache controller implemented in Veri
 
 ## 📊 Architecture
 
-### System Overview
+### Specifications
 
+<img width="428" height="394" alt="image" src="https://github.com/user-attachments/assets/f8d928b1-0c74-4df1-8a2e-7ddc78a56b83" />
+
+### RTL View of the Entire System
 
 <img width="747" height="673" alt="image" src="https://github.com/user-attachments/assets/6f8756c3-110e-4566-8207-b7829bdd2fdc" />
 
