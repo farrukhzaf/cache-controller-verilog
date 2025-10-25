@@ -207,9 +207,9 @@ data_memory_subsystem #(
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@farrukhzaf](https://github.com/farrukhzaf)
+- LinkedIn: [Mohammad Farukh Zafar](https://linkedin.com/in/farukhzafa)
+- Email: farukhzafar@iisc.ac.in
 
 ## 📄 License
 
